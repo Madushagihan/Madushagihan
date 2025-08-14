@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madushagihan&label=Profile%20views&color=0e75b6&style=flat" alt="madushagihan" /> </p>
 
+  <img align="right" width="400" height="300" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  
 - 🌱 I’m currently learning **Html , Css , Js , Java , PHP**
 
 - 💬 Ask me about **PHP**
